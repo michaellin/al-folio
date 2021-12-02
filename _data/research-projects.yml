@@ -9,7 +9,7 @@
         This publication is still under review so it is not yet available.
     folder: 'lin2021exploratory'   #should match bibtex key
     # pdf: true
-    video: 'https://drive.google.com/file/d/1F6790hWTbPcXMCgKPBu95xUe8iOp7zhQ/view?usp=sharing'
+    video: 'https://www.youtube.com/watch?v=VZJrMVkunTM&t=3s'
     readmore: false
     img: 'exploratoryHand.gif'
     alt: >-
@@ -32,6 +32,7 @@
         demonstrate the skin in object acquisition tasks in a tightly
         constrained environment for which extraneous contacts are unavoidable.
     folder: 'gruebele2021bubble'   #should match bibtex key
+    video: 'https://www.youtube.com/watch?v=P9MEyECckzo'
     readmore: false
     img: 'demoBubbleWrist.GIF'
     alt: >-
