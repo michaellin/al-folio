@@ -1,3 +1,17 @@
+-   title: "Tactile-Visuo Search in Cluttered Spaces"
+    date: "Spring 2021"
+    description: >-
+        Course: AA273 State Estimation and Filtering.
+        In this work we look into the problem of reaching into a cupboard-like environment to fetch 
+        a spice jar that could be occluded by other objects in the scene. We integrate both vision 
+        and tactile measurements in order to create a map of the environment, which can be used to inform where the 
+        target object is and also used to create motion plans to execute the task. We use Gaussian Process 
+        Implicit Surfaces (GPIS) for integrating these multi-modal measurements into one common representation 
+        of the scene.
+    img: 'GPIS-Multimodal.gif'
+    alt: 'diagrams showing neural network structure for a text summarization algorithm.'
+    webpage: 'aa273/AA273_Project_Report.pdf'
+    folder: aa273
 -   title: "Natural Language Processing: More Abstractive Summarization with
 Pointer-Generator Networks"
     date: "Winter 2020"
